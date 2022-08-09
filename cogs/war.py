@@ -171,9 +171,9 @@ class war(commands.Cog):
         if trackid is not None:
             raceEmbed.add_field(name="Track", value=tracks["names"][game][trackid], inline=False)
             raceEmbed.set_thumbnail(url=tracks["images"][game][trackid])
-        await interaction.response.send_message(embed=raceEmbed)
         scoreEmbed = self.createScoreEmbed(interaction.channel_id)
-        await interaction.channel.send(embed=scoreEmbed)
+        await interaction.response.send_message(embeds=[raceEmbed, scoreEmbed])
+        #await interaction.channel.send(embed=scoreEmbed)
 
     @app_commands.command(name="penalty")
     #@app_commands.guilds(305351582017388544)
