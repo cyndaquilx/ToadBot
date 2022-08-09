@@ -6,7 +6,8 @@
 		"mk8": ["mks", "wp", "ssc", "tr", "mc", "th", "tm", "sgf", "sa", "ds", "ed", "mw", "cc", "bdd", "bc", "rr",
 		"rmmm", "rmc", "rccb", "rtt", "rddd", "rdp3", "rrry", "rdkj", "rws", "rsl", "rmp", "ryv", "rttc", "rpps", "rgv", "rrrd",
 		"dyc", "dea", "ddd", "dmc", "dwgm", "drr", "diio", "dhc", "dbp", "dcl", "dww", "dac", "dnbc", "drir", "dsbs", "dbb",
-		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh"]
+		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh", "bnym", "bmc3", "bkd", "bwp", "bss", "bsl", "bmg", "bshs"
+		]
 	},
 	"properCase": {
 		"mkw": ["LC", "MMM", "MG", "TF", "MC", "CM", "DKS", "WGM", "DC", "KC", "MT", "GV", "DDR", "MH", "BC", "RR",
@@ -15,7 +16,8 @@
 		"mk8": ["MKS", "WP", "SSC", "TR", "MC", "TH", "TM", "SGF", "SA", "DS", "Ed", "MW", "CC", "BDD", "BC", "RR",
 		"rMMM", "rMC", "rCCB", "rTT", "rDDD", "rDP3", "rRRy", "rDKJ", "rWS", "rSL", "rMP", "rYV", "rTTC", "rPPS", "rGV", "rRRd",
 		"dYC", "dEA", "dDD", "dMC", "dWGM", "dRR", "dIIO", "dHC", "dBP", "dCL", "dWW", "dAC", "dNBC", "dRiR", "dSBS", "dBB",
-		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH"]
+		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH", "bNYM", "bMC3", "bKD", "bWP", "bSS", "bSL", "bMG", "bSHS"
+		]
 	},
 	"names": {
 		"mkw": [
@@ -108,7 +110,15 @@
 			"Tour Tokyo Blur",
 			"DS Shroom Ridge",
 			"GBA Sky Garden",
-			"Tour Ninja Hideaway"
+			"Tour Ninja Hideaway",
+			"Tour New York Minute",
+			"SNES Mario Circuit 3",
+			"N64 Kalimari Desert",
+			"DS Waluigi Pinball",
+			"Tour Sydney Sprint",
+			"GBA Snow Land",
+			"Wii Mushroom Gorge",
+			"Sky-High Sundae"
 		]
 	},
 	"images": {
@@ -222,7 +232,17 @@
 			"https://i.imgur.com/bIHXjVC.png",
 			"https://i.imgur.com/4XTF56w.png",
 			"https://i.imgur.com/efMObR1.png",
-			"https://i.imgur.com/o9RWZ0t.png"
+			"https://i.imgur.com/o9RWZ0t.png",
+
+			"https://i.imgur.com/jijGEl3.png",
+			"https://i.imgur.com/hCXv3gu.png",
+			"https://i.imgur.com/9JrvdNA.png",
+			"https://i.imgur.com/BcpdnWU.png",
+
+			"https://i.imgur.com/IOHbb5k.png",
+			"https://i.imgur.com/h3Hsz06.png",
+			"https://i.imgur.com/om5Sz3C.png",
+			"https://i.imgur.com/TnDR4UG.png"
 		]
 	}
 }
