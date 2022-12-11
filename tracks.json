@@ -6,7 +6,8 @@
 		"mk8": ["mks", "wp", "ssc", "tr", "mc", "th", "tm", "sgf", "sa", "ds", "ed", "mw", "cc", "bdd", "bc", "rr",
 		"rmmm", "rmc", "rccb", "rtt", "rddd", "rdp3", "rrry", "rdkj", "rws", "rsl", "rmp", "ryv", "rttc", "rpps", "rgv", "rrrd",
 		"dyc", "dea", "ddd", "dmc", "dwgm", "drr", "diio", "dhc", "dbp", "dcl", "dww", "dac", "dnbc", "drir", "dsbs", "dbb",
-		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh", "bnym", "bmc3", "bkd", "bwp", "bss", "bsl", "bmg", "bshs"
+		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh", "bnym", "bmc3", "bkd", "bwp", "bss", "bsl", "bmg", "bshs",
+		"bll", "bbl", "brrm", "bmt", "bbb", "bpg", "bmm", "brr7"
 		]
 	},
 	"properCase": {
@@ -16,7 +17,8 @@
 		"mk8": ["MKS", "WP", "SSC", "TR", "MC", "TH", "TM", "SGF", "SA", "DS", "Ed", "MW", "CC", "BDD", "BC", "RR",
 		"rMMM", "rMC", "rCCB", "rTT", "rDDD", "rDP3", "rRRy", "rDKJ", "rWS", "rSL", "rMP", "rYV", "rTTC", "rPPS", "rGV", "rRRd",
 		"dYC", "dEA", "dDD", "dMC", "dWGM", "dRR", "dIIO", "dHC", "dBP", "dCL", "dWW", "dAC", "dNBC", "dRiR", "dSBS", "dBB",
-		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH", "bNYM", "bMC3", "bKD", "bWP", "bSS", "bSL", "bMG", "bSHS"
+		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH", "bNYM", "bMC3", "bKD", "bWP", "bSS", "bSL", "bMG", "bSHS",
+		"bLL", "bBL", "bRRM", "bMT", "bBB", "bPG", "bMM", "bRR7"
 		]
 	},
 	"names": {
@@ -118,7 +120,15 @@
 			"Tour Sydney Sprint",
 			"GBA Snow Land",
 			"Wii Mushroom Gorge",
-			"Sky-High Sundae"
+			"Sky-High Sundae",
+			"Tour London Loop",
+			"GBA Boo Lake",
+			"3DS Rock Rock Mountain",
+			"Wii Maple Treeway",
+			"Tour Berlin Byways",
+			"DS Peach Gardens",
+			"Tour Merry Mountain",
+			"3DS Rainbow Road"
 		]
 	},
 	"images": {
@@ -242,7 +252,17 @@
 			"https://i.imgur.com/IOHbb5k.png",
 			"https://i.imgur.com/h3Hsz06.png",
 			"https://i.imgur.com/om5Sz3C.png",
-			"https://i.imgur.com/TnDR4UG.png"
+			"https://i.imgur.com/TnDR4UG.png",
+
+			"https://i.imgur.com/dL3bY6z.png",
+			"https://i.imgur.com/Vk9Y6o5.png",
+			"https://i.imgur.com/VGCayVs.png",
+			"https://i.imgur.com/dH1vwPl.png",
+
+			"https://i.imgur.com/pTzYI75.png",
+			"https://i.imgur.com/imjQFcX.png",
+			"https://i.imgur.com/88FNu3y.png",
+			"https://i.imgur.com/UlYZq4e.png"
 		]
 	}
 }
