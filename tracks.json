@@ -7,7 +7,7 @@
 		"rmmm", "rmc", "rccb", "rtt", "rddd", "rdp3", "rrry", "rdkj", "rws", "rsl", "rmp", "ryv", "rttc", "rpps", "rgv", "rrrd",
 		"dyc", "dea", "ddd", "dmc", "dwgm", "drr", "diio", "dhc", "dbp", "dcl", "dww", "dac", "dnbc", "drir", "dsbs", "dbb",
 		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh", "bnym", "bmc3", "bkd", "bwp", "bss", "bsl", "bmg", "bshs",
-		"bll", "bbl", "brrm", "bmt", "bbb", "bpg", "bmm", "brr7"
+		"bll", "bbl", "brrm", "bmt", "bbb", "bpg", "bmm", "brr7", "bad", "brp", "bdks", "byi", "bbr", "bmc", "bws", "bssy"
 		]
 	},
 	"properCase": {
@@ -18,7 +18,7 @@
 		"rMMM", "rMC", "rCCB", "rTT", "rDDD", "rDP3", "rRRy", "rDKJ", "rWS", "rSL", "rMP", "rYV", "rTTC", "rPPS", "rGV", "rRRd",
 		"dYC", "dEA", "dDD", "dMC", "dWGM", "dRR", "dIIO", "dHC", "dBP", "dCL", "dWW", "dAC", "dNBC", "dRiR", "dSBS", "dBB",
 		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH", "bNYM", "bMC3", "bKD", "bWP", "bSS", "bSL", "bMG", "bSHS",
-		"bLL", "bBL", "bRRM", "bMT", "bBB", "bPG", "bMM", "bRR7"
+		"bLL", "bBL", "bRRM", "bMT", "bBB", "bPG", "bMM", "bRR7", "bAD", "bRP", "bDKS", "bYI", "bBR", "bMC", "bWS", "bSSy"
 		]
 	},
 	"names": {
@@ -128,7 +128,15 @@
 			"Tour Berlin Byways",
 			"DS Peach Gardens",
 			"Tour Merry Mountain",
-			"3DS Rainbow Road"
+			"3DS Rainbow Road",
+			"Tour Amsterdam Drift",
+			"GBA Riverside Park",
+			"Wii DK Summit",
+			"Yoshi's Island",
+			"Tour Bangkok Rush",
+			"DS Mario Circuit",
+			"GCN Waluigi Stadium",
+			"Tour Singapore Speedway"
 		]
 	},
 	"images": {
@@ -262,7 +270,17 @@
 			"https://i.imgur.com/pTzYI75.png",
 			"https://i.imgur.com/imjQFcX.png",
 			"https://i.imgur.com/88FNu3y.png",
-			"https://i.imgur.com/UlYZq4e.png"
+			"https://i.imgur.com/UlYZq4e.png",
+
+			"",
+			"",
+			"",
+			"",
+
+			"",
+			"",
+			"",
+			""
 		]
 	}
 }
