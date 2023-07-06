@@ -7,7 +7,8 @@
 		"rmmm", "rmc", "rccb", "rtt", "rddd", "rdp3", "rrry", "rdkj", "rws", "rsl", "rmp", "ryv", "rttc", "rpps", "rgv", "rrrd",
 		"dyc", "dea", "ddd", "dmc", "dwgm", "drr", "diio", "dhc", "dbp", "dcl", "dww", "dac", "dnbc", "drir", "dsbs", "dbb",
 		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh", "bnym", "bmc3", "bkd", "bwp", "bss", "bsl", "bmg", "bshs",
-		"bll", "bbl", "brrm", "bmt", "bbb", "bpg", "bmm", "brr7", "bad", "brp", "bdks", "byi", "bbr", "bmc", "bws", "bssy"
+		"bll", "bbl", "brrm", "bmt", "bbb", "bpg", "bmm", "brr7", "bad", "brp", "bdks", "byi", "bbr", "bmc", "bws", "bssy",
+		"bada", "bdc", "bmh", "bscs", "blal", "bsw", "bkc", "bvv"
 		]
 	},
 	"properCase": {
@@ -18,7 +19,8 @@
 		"rMMM", "rMC", "rCCB", "rTT", "rDDD", "rDP3", "rRRy", "rDKJ", "rWS", "rSL", "rMP", "rYV", "rTTC", "rPPS", "rGV", "rRRd",
 		"dYC", "dEA", "dDD", "dMC", "dWGM", "dRR", "dIIO", "dHC", "dBP", "dCL", "dWW", "dAC", "dNBC", "dRiR", "dSBS", "dBB",
 		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH", "bNYM", "bMC3", "bKD", "bWP", "bSS", "bSL", "bMG", "bSHS",
-		"bLL", "bBL", "bRRM", "bMT", "bBB", "bPG", "bMM", "bRR7", "bAD", "bRP", "bDKS", "bYI", "bBR", "bMC", "bWS", "bSSy"
+		"bLL", "bBL", "bRRM", "bMT", "bBB", "bPG", "bMM", "bRR7", "bAD", "bRP", "bDKS", "bYI", "bBR", "bMC", "bWS", "bSSy",
+		"bADa", "bDC", "bMH", "bSCS", "bLAL", "bSW", "bKC", "bVV"
 		]
 	},
 	"names": {
@@ -136,7 +138,15 @@
 			"Tour Bangkok Rush",
 			"DS Mario Circuit",
 			"GCN Waluigi Stadium",
-			"Tour Singapore Speedway"
+			"Tour Singapore Speedway",
+			"Tour Athens Dash",
+			"GCN Daisy Cruiser",
+			"Wii Moonview Highway",
+			"Squeaky Clean Sprint",
+			"Tour Los Angeles Laps",
+			"GBA Sunset Wilds",
+			"Wii Koopa Cape",
+			"Tour Vancouver Velocity"
 		]
 	},
 	"images": {
@@ -272,15 +282,25 @@
 			"https://i.imgur.com/88FNu3y.png",
 			"https://i.imgur.com/UlYZq4e.png",
 
-			"",
-			"",
-			"",
-			"",
+			"https://i.imgur.com/2nM0DTi.png",
+			"https://i.imgur.com/w5eKfS8.png",
+			"https://i.imgur.com/o6hOtir.png",
+			"https://i.imgur.com/Vvyarov.png",
 
-			"",
-			"",
-			"",
-			""
+			"https://i.imgur.com/bWD73Pj.png",
+			"https://i.imgur.com/8JPQOvy.png",
+			"https://i.imgur.com/MA6q10R.png",
+			"https://i.imgur.com/GfUK2Um.png",
+
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/athens-dash.jpg",
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/daisy-cruiser.jpg",
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/moonview-highway.jpg",
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/squeaky-clean-sprint.jpg",
+
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/los-angeles-laps.jpg",
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/sunset-wilds.jpg",
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/koopa-cape.jpg",
+			"https://mariokart8.nintendo.com/assets/img/booster/courses/vancouver-velocity.jpg"
 		]
 	}
 }
