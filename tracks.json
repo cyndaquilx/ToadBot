@@ -8,7 +8,7 @@
 		"dyc", "dea", "ddd", "dmc", "dwgm", "drr", "diio", "dhc", "dbp", "dcl", "dww", "dac", "dnbc", "drir", "dsbs", "dbb",
 		"bpp", "btc", "bcmo", "bcma", "btb", "bsr", "bsg", "bnh", "bnym", "bmc3", "bkd", "bwp", "bss", "bsl", "bmg", "bshs",
 		"bll", "bbl", "brrm", "bmt", "bbb", "bpg", "bmm", "brr7", "bad", "brp", "bdks", "byi", "bbr", "bmc", "bws", "bssy",
-		"batd", "bdc", "bmh", "bscs", "blal", "bsw", "bkc", "bvv"
+		"batd", "bdc", "bmh", "bscs", "blal", "bsw", "bkc", "bvv", "bra", "bdkm", "bdct", "bppc", "bmd", "briw", "bbc3", "brrw"
 		]
 	},
 	"properCase": {
@@ -20,7 +20,7 @@
 		"dYC", "dEA", "dDD", "dMC", "dWGM", "dRR", "dIIO", "dHC", "dBP", "dCL", "dWW", "dAC", "dNBC", "dRiR", "dSBS", "dBB",
 		"bPP", "bTC", "bCMo", "bCMa", "bTB", "bSR", "bSG", "bNH", "bNYM", "bMC3", "bKD", "bWP", "bSS", "bSL", "bMG", "bSHS",
 		"bLL", "bBL", "bRRM", "bMT", "bBB", "bPG", "bMM", "bRR7", "bAD", "bRP", "bDKS", "bYI", "bBR", "bMC", "bWS", "bSSy",
-		"bAtD", "bDC", "bMH", "bSCS", "bLAL", "bSW", "bKC", "bVV"
+		"bAtD", "bDC", "bMH", "bSCS", "bLAL", "bSW", "bKC", "bVV", "bRA", "bDKM", "bDCt", "bPPC", "bMD", "bRIW", "bBC3", "bRRw"
 		]
 	},
 	"names": {
@@ -146,7 +146,15 @@
 			"Tour Los Angeles Laps",
 			"GBA Sunset Wilds",
 			"Wii Koopa Cape",
-			"Tour Vancouver Velocity"
+			"Tour Vancouver Velocity",
+			"Tour Rome Avanti",
+			"GCN DK Mountain",
+			"Wii Daisy Circuit",
+			"Piranha Plant Cove",
+			"Tour Madrid Drive",
+			"3DS Rosalina's Ice World",
+			"SNES Bowser Castle 3",
+			"Wii Rainbow Road"
 		]
 	},
 	"images": {
@@ -292,15 +300,25 @@
 			"https://i.imgur.com/MA6q10R.png",
 			"https://i.imgur.com/GfUK2Um.png",
 
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/athens-dash.jpg",
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/daisy-cruiser.jpg",
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/moonview-highway.jpg",
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/squeaky-clean-sprint.jpg",
+			"https://i.imgur.com/DiSluQu.png",
+			"https://i.imgur.com/luKppqK.png",
+			"https://i.imgur.com/3R47EKI.png",
+			"https://i.imgur.com/1VC6E1B.png",
 
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/los-angeles-laps.jpg",
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/sunset-wilds.jpg",
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/koopa-cape.jpg",
-			"https://mariokart8.nintendo.com/assets/img/booster/courses/vancouver-velocity.jpg"
+			"https://i.imgur.com/3BZ2qME.png",
+			"https://i.imgur.com/M3ENDVr.png",
+			"https://i.imgur.com/iBCOPAk.png",
+			"https://i.imgur.com/hk44xCZ.png",
+
+			"https://mario.wiki.gallery/images/thumb/5/5f/MK8-Course-Tour_RomeAvanti.jpg/150px-MK8-Course-Tour_RomeAvanti.jpg",
+			"https://mario.wiki.gallery/images/thumb/9/9f/MK8-Course-GCN_DKMountain.jpg/150px-MK8-Course-GCN_DKMountain.jpg",
+			"https://mario.wiki.gallery/images/thumb/5/58/MK8-Course-Wii_DaisyCircuit.jpg/150px-MK8-Course-Wii_DaisyCircuit.jpg",
+			"https://mario.wiki.gallery/images/thumb/6/6a/MK8-Course-Tour_PiranhaPlantCove.jpg/150px-MK8-Course-Tour_PiranhaPlantCove.jpg",
+
+			"https://mario.wiki.gallery/images/thumb/7/75/MK8-Course-Tour_MadridDrive.jpg/150px-MK8-Course-Tour_MadridDrive.jpg",
+			"https://mario.wiki.gallery/images/thumb/9/9e/MK8-Course-3DS_RosalinaIceWorld.jpg/150px-MK8-Course-3DS_RosalinaIceWorld.jpg",
+			"https://mario.wiki.gallery/images/thumb/0/05/MK8D_SNES_Bowser_Castle_3_Scene_1.png/150px-MK8D_SNES_Bowser_Castle_3_Scene_1.png",
+			"https://mario.wiki.gallery/images/thumb/d/dd/MK8D_Wii_Rainbow_Road_Scene_1.png/150px-MK8D_Wii_Rainbow_Road_Scene_1.png"
 		]
 	}
 }
